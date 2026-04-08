@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F914B1-3B82-4D8A-B2CF-F925E4D0FE42}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C9F914B1-3B82-4D8A-B2CF-F925E4D0FE42}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F914B1-3B82-4D8A-B2CF-F925E4D0FE42}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\webapplication1\\webapplication1\\webservice1.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F914B1-3B82-4D8A-B2CF-F925E4D0FE42}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webservice1.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\WebApplication1\\WebApplication1\\.gitignore",
+              "RelativeDocumentMoniker": "WebApplication1\\.gitignore",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\WebApplication1\\WebApplication1\\.gitignore",
+              "RelativeToolTip": "WebApplication1\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-08T09:27:16.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebService1.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\WebApplication1\\WebApplication1\\WebService1.asmx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\WebService1.asmx.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\WebApplication1\\WebApplication1\\WebService1.asmx.cs",
+              "RelativeToolTip": "WebApplication1\\WebService1.asmx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:56:39.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
