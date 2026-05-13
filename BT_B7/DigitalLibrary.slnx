@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BookService/BookService.csproj" />
+  <Project Path="BorrowingService/BorrowingService.csproj" />
+  <Project Path="IdentityService/IdentityService.csproj" />
+  <Project Path="NotificationService/NotificationService.csproj" />
+</Solution>

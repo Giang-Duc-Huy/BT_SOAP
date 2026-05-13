@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "BorrowingService.Controllers.BorrowController",
+    "Method": "BorrowBook",
+    "RelativePath": "api/Borrow",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "bookId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
