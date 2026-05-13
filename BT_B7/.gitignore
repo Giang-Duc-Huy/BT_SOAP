@@ -1,0 +1,17 @@
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# NuGet
+packages/
+
+# Logs
+*.log
+
+# Others
+*.cache
+*.tmp
